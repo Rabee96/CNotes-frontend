@@ -12,7 +12,6 @@ This project is a **Notes App** built with **Next.js**, **React**, and **Zustand
 - **Delete Notes**: Users can delete a note from the list.
 - **Status Management**: Notes can have statuses (e.g., *in progress*, *completed*).
 - **Real-time Updates**: The app automatically updates the UI after adding or deleting notes.
-- **Form Validation**: Note data is validated using Yup.
 
 ---
 
@@ -21,7 +20,6 @@ This project is a **Notes App** built with **Next.js**, **React**, and **Zustand
 - **Next.js**: A React framework for building fast, server-rendered applications.
 - **React**: A JavaScript library for building user interfaces.
 - **Zustand**: A small, fast, and scalable state-management library for React.
-- **Yup**: A JavaScript schema builder for validation.
 
 ---
 

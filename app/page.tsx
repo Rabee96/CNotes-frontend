@@ -1,4 +1,4 @@
-import NoteDialog from "@/app/components/NoteDialog";
+import NoteDialog from "./components/NoteDialog";
 import NotesList from "./ui/notes-lits";
 
 export default function Home() {

@@ -2,7 +2,7 @@
 
 # Project Name: Notes App
 
-This project is a **Notes App** built with **Next.js**, **React**, **Zustand**, and **Yup** for form validation. The app allows users to create, delete, and view notes with simple CRUD operations. It uses Zustand for state management and Yup for validating the note's schema.
+This project is a **Notes App** built with **Next.js**, **React**, and **Zustand**. The app allows users to create, delete, and view notes with simple CRUD operations. It uses Zustand for state management and Yup for validating the note's schema.
 
 ---
 

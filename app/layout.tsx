@@ -1,6 +1,6 @@
+import { ThemeToggle } from "./components/ThemeToggle";
 import "./globals.css";
 import { Inter } from "next/font/google";
-import { ThemeToggle } from "@/app/components/ThemeToggle";
 
 const inter = Inter({ subsets: ["latin"] });
 
